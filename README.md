@@ -5,7 +5,8 @@ Colt Steele's RGB Color Game project from *The Web Developer Bootcamp*.
 ### go to the game - [click here](https://codepen.io/shir-izhak/pen/JjdWXWr)  
   
 ![3](https://user-images.githubusercontent.com/46241467/79336503-88e1a800-7f2c-11ea-9dfa-cf25bd5ba76f.png)  
-
+  
+  
 ## DOM Manipulate - by building a simple JavaScript color game  
 the DOM enables you to bring dynamics to your static website.  
 With the use of the DOM, you can do a bunch of useful things on the webpage like:  
