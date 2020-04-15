@@ -5,10 +5,11 @@ for the game - [click here](https://codepen.io/shir-izhak/pen/JjdWXWr)
 
 ## DOM Manipulate - by building a simple JavaScript color game  
 the DOM enables you to bring dynamics to your static website. With the use of the DOM, you can do a bunch of useful things on the webpage like:  
-adding and deleting HTML elements and attributes
-adding and deleting CSS rules on a user fired event
+adding and deleting HTML elements and attributes  
+adding and deleting CSS rules on a user fired event  
 creating new events for synthetic user events  
-
+In this context, I built the game using: Html, Css and JavaScript  
+  
 ### Getting started
 I build a simple color guessing game. Every time the game is started, a random RGB color code will be selected. Depending on the mode of the game, we will have three (easy) or six (hard) options or color blocks on the screen to choose from. Every time an incorrect color block is selected, the block will disappear until the user selects the correct color (or its the last option left).  
 
